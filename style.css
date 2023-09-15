@@ -1,0 +1,163 @@
+
+
+/* Noticias*/
+
+header .top-header {
+    font-size: 12px;
+}
+
+header .noticia-top {
+    font-size: 13px;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+header .noticia-top ul .list-inline-item:not(:last-child) {
+    margin-right: 0;
+}
+
+header .noticia-top ul a {
+    text-decoration: none;
+    color: black;
+    padding: 0 1px;
+}
+
+header .noticia-top ul a:hover {
+    text-decoration: underline;
+}
+
+
+header .noticia-top ul .li-bold {
+    font-weight: bold;
+}
+
+header .top-header {
+    padding: 5px;
+}
+
+.logo-marca {
+ margin-left: 200px;
+}
+  
+/* Barra navegacion */
+
+.barra-navegacion {
+  background-color: rgb(184, 12, 12);
+  font-weight: bold;
+  height: 50px;
+  font-size: 20px;
+}
+
+.navbar-nav > .nav-item:not(:last-child) {
+  margin-right: 20px; 
+}
+
+.fondo-oscuro {
+  background-color: rgb(153, 0, 0);
+  
+}
+
+.otros-deportes {
+  margin-right: 0px !important; 
+}
+
+.texto-blanco {
+  color: white;
+  
+}
+
+.texto-blanco-bold {
+  color: white;
+  font-weight: bold;
+  
+}
+
+.texto-blanco:hover {
+  color: white;
+}
+
+.fondo-hver:hover {
+  background-color: rgb(16, 22, 41);
+}
+
+.decoracion {
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.decoracion:hover {
+  color: aquamarine !important;
+}
+
+/* Footer */
+
+.fondo-footer {
+  background-color: rgb(51, 51, 51);
+}
+
+.footer-mg {
+  margin-bottom: 1px;
+}
+
+.footer-derechos .terminos {
+ white-space: pre-wrap;
+}
+
+.img-footer {
+  margin-left: 10px;
+ width: 30px;
+ height: 30px;
+}
+
+ .header-blanco {
+  text-decoration: none;
+  color: black;
+}
+
+/* Anuncio */
+
+.columna {
+  margin-top: 30px;
+}
+
+.card-img1 {
+  border: none;
+  margin-top: 30px;
+  margin-left: 30px;
+  background-color: rgba(219, 219, 219, 0.719);
+  padding-top: 8px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+}
+
+.imagen1-card {
+  width: 200px;
+  height: 150px;
+}
+
+.text-card1 {
+  margin-left: 20px;
+}
+
+.iconos-anuncio {
+  width: 30px;
+  height: 30px;
+}
+
+.parrafo-cont {
+  font-size: 40px;
+}
+
+
+.parrafo-sm-ctn {
+  color: red;
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.ctn-hr {
+  border: 2px solid black;
+}
+ 
